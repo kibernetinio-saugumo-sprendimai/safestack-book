@@ -10,6 +10,32 @@ Private and public SafeStack books, articles, technical papers, and controlled d
 
 The PDF was copied without editing its contents. The recorded SHA-256 value is the integrity reference for this repository copy.
 
+## Collection cover
+
+```text
+             +----------------------------------+
+            /   S A F E S T A C K              /|
+           /       BOOK LIBRARY               / |
+          +----------------------------------+  |
+          |                                  |  |
+          |          POST-QUANTUM            |  |
+          |       TECHNICAL COLLECTION       |  |
+          |                                  |  |
+          |              [ 01 ]              |  /
+          |          13 PAGES / PDF          | /
+          +----------------------------------+/
+
+        +------------+ +------------+ +------------+
+        |  BOOK 01   | |  PAPERS    | |  DOCS      |
+        | POST-       | |  FUTURE    | |  FUTURE    |
+        | QUANTUM     | |  COLLECTION| |  COLLECTION|
+        +------------+ +------------+ +------------+
+        =================================================
+                    SAFE / READ / VERIFY
+```
+
+The cover is an ASCII index for the collection. Each future book, article, or technical document receives its own catalogue entry, checksum, and clearly labelled source or licence.
+
 ## Library rules
 
 - Add one document per file with a descriptive filename.
